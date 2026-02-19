@@ -6,7 +6,7 @@
 
 *Building intelligent systems with LLMs, agentic frameworks, and RAG pipelines*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heshica-vanapalli-563691209/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heshica-v-563691209/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/HeshicaV)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:heshica26@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/heshica-vp)
@@ -20,7 +20,7 @@
 ### Data Scientist I @ XCaliber Health
 *June 2025 - Sept 2025 | Bengaluru*
 
-- Built a **Text-to-SQL tool** for healthcare natural-language queries with **85% accuracy**
+- Built a **Text-to-SQL tool** for converting healthcare natural-language queries to SQL queries with **85% accuracy**
 - Engineered CCDA-to-FHIR transformation pipeline using FAISS and HL7 clinical data
 - Implemented data validation guardrails using Great Expectations
 
@@ -31,7 +31,7 @@
 - Reduced manual review effort by **35%** through automated tool orchestration
 - Built semantic search pipeline achieving **89% retrieval accuracy** with Azure AI Search
 
-### Generative AI Intern @ DSCI (NASSCOM)
+### Generative AI Intern @ Data Security Council of India (DSCI), A NASSCOM Initiative
 *June 2024 - Oct 2024 | Noida*
 
 - Developed NLP classification pipeline with DistilBERT, reducing categorization effort by **40%**
